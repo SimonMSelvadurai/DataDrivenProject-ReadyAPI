@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testCase id="ddda3934-a986-4463-990f-4a8fcc8f2597" discardOkResults="false" failOnError="true" failTestCaseOnErrors="true" keepSession="false" name="Test" searchProperties="true" timeout="0" wsrmEnabled="false" wsrmVersion="1.0" wsrmAckTo="" zephyrTestName="" zephyrTestId="" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings>
+    <con:setting id="ddda3934-a986-4463-990f-4a8fcc8f2597fileName">Test</con:setting>
+  </con:settings>
+  <con:properties/>
+  <con:reportParameters/>
+</con:testCase>
